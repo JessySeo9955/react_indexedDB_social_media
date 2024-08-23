@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
-import 'bootstrap/dist/js/bootstrap.bundle.min'
+// import 'bootstrap/dist/js/bootstrap.bundle.min'
 
 // import '@/App.css'
 import '@/Custom.css'
